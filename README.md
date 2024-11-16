@@ -1,5 +1,7 @@
 # 💫 About Me:
-- I can use programming languages such as C++, C, Python, JAVA <br> - I have 3 years experience in programming<br> - I also know MongoDB, MySQL<br>
+- I can use programming languages such as C++, C, Python, JAVA <br>
+- I have 3 years experience in programming<br>
+- I also know MongoDB, MySQL<br>
 
 
 # 💻 Tech Stack:
