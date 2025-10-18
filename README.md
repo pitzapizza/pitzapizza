@@ -4,11 +4,11 @@ Hi, I’m **Adarsh** — an AI Engineering Software Intern at **Intelizign**, pa
 - 💻 Skilled in **Python, TypeScript, Tailwind, and Azure**  
 - 🛠️ Focused on designing **modular, scalable, and visually polished** projects  
 - 🎮 Project highlights:  
-  - Fine‑tuned **YOLOv8l** model on a local GPU with TensorFlow  
+  - Fine‑tuned **YOLOv8l** model on a local GPU with TensorFlow for vehicle and vehicle type detection.
   - **Cloud‑deployed sketch notebook** with pen/eraser, undo/redo, and smart download features  
   - **CAD/CAM version change detection** using OpenCV and differentiating algorithms  
   - **Prompt‑engineered JSON test‑case generator** with Qwen‑MoE model  
-  - **Sentiment analysis module** for Smart India Hackathon (SIH): performs sentiment analysis, word cloud generation, and summarization of comments  
+  - **Sentiment analysis of comments through e-Consultation module** for Smart India Hackathon (SIH): performs sentiment analysis, word cloud generation, and summarization of comments  
 - 🚀 Always iterating, debugging deeply, and deploying fast  
 
 I enjoy turning ideas into **deployable, user‑friendly apps** that anyone can try instantly.
