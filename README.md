@@ -1,10 +1,21 @@
-# 💫 About Me:
-- I can use programming languages such as C++, C, Python, JAVA <br>
-- I have 3 years experience in programming<br>
-- I also know MongoDB, MySQL<br>
+# 💫 About Me
+Hi, I’m **Adarsh** — an AI Engineering Software Intern at **Intelizign**, passionate about building interactive web apps, games, and cloud‑ready tools.  
 
+- 💻 Skilled in **Python, TypeScript, Tailwind, and Azure**  
+- 🛠️ Focused on designing **modular, scalable, and visually polished** projects  
+- 🎮 Project highlights:  
+  - Fine‑tuned **YOLOv8l** model on a local GPU with TensorFlow  
+  - **Cloud‑deployed sketch notebook** with pen/eraser, undo/redo, and smart download features  
+  - **CAD/CAM version change detection** using OpenCV and differentiating algorithms  
+  - **Prompt‑engineered JSON test‑case generator** with Qwen‑MoE model  
+  - **Sentiment analysis module** for Smart India Hackathon (SIH): performs sentiment analysis, word cloud generation, and summarization of comments  
+- 🚀 Always iterating, debugging deeply, and deploying fast  
 
-# 💻 Tech Stack:
+I enjoy turning ideas into **deployable, user‑friendly apps** that anyone can try instantly.
+
+---
+
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,17 +40,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pitzapizza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pitzapizza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzapizza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=pitzapizza&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
